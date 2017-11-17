@@ -72,8 +72,8 @@
           <div class="col-md-6">
             <div class="text-center col-md-4 col-md-offset-4" id="frameworks" style="display:none;">
               <p><small style="color: #fff;">and this langs/frameworks!</small></p>
-              <img src="img/python.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Shitty PHP (CI and Laravel)">
-              <img src="img/php.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Best Python (Django / Pygame / RenPy)">
+              <img src="img/python.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Best Python (Django / Pygame / RenPy)">
+              <img src="img/php.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Shitty PHP (CI and Laravel)">
               <img src="img/vue.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Easy to use VueJS!">
             </div>
           </div>
