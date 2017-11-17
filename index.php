@@ -116,7 +116,7 @@
         showText("#headingone-part2", "Nice to meet you", 0, 50)
       }, 50*10);
       setTimeout(function(){
-        showText("#headingtwo", "My name is carl. I'm angryiceking -- a meme collector, pessimist, fanatic, obsessive-compulsive, a bit of a perfectionist and a developer.", 0, 30)
+        showText("#headingtwo", "My name is carl. I'm angryiceking -- a meme collector, pessimist, fanatic, obsessive-compulsive, a bit of a perfectionist, a developer and a simple guy.", 0, 30)
       }, 50*30);
       setTimeout(function(){
         $('#games').fadeIn(1500);
