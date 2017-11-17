@@ -14,7 +14,7 @@
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+  <link href="vendor/font-awesome/fonts/sanpro.css" rel="stylesheet" type="text/css">
   <link href="css/stylish-portfolio.css" rel="stylesheet">
 </head>
 
@@ -73,7 +73,7 @@
             <div class="text-center col-md-4 col-md-offset-4" id="frameworks" style="display:none;">
               <p><small style="color: #fff;">and this langs/frameworks!</small></p>
               <img src="img/python.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Shitty PHP (CI and Laravel)">
-              <img src="img/php.svg" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Best Python (Django / Pygame / RenPy)">
+              <img src="img/php.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Best Python (Django / Pygame / RenPy)">
               <img src="img/vue.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Easy to use VueJS!">
             </div>
           </div>
