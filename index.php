@@ -52,7 +52,7 @@
     <div class="text-vertical-center"  >
       <div class="col-md-12">
         <div class="row">
-          <div class="col-md-10 col-md-offset-1">
+          <div class="col-md-9 col-md-offset-1">
             <h1 style="color: #fff; margin-top: -3% !important;" id="headingone"></h1>
             <h1 style="color: #fff" id="headingone-part2"></h1>
             <h3 style="color: #fff" id="headingtwo"></h3>
