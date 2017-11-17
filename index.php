@@ -54,11 +54,30 @@
       <h1 style="color: #fff" id="headingone-part2"></h1>
       <h3 style="color: #fff" id="headingtwo"></h3>
       <hr>
-      <div class="text-center" id="games" style="display:none">
-        <p><small style="color: #fff;">I actively play these games!</small></p>
-        <img src="img/chika.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Love Live! School Idol Festival! WW Server / Rin-boi ♥">
-        <img src="img/honkai.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Honkai Impact 3 - SEA Server / AngryIceKing">
-        <img src="img/dota2.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Defense of the Ancients 2 - 7.07 1k MMR / King">
+      <div class="col-md-12">
+        <div class="row">
+          <div class="col-md-6 text-center ">
+            <div class="row">
+              <div class="col-md-8">
+
+              </div>
+              <div class="col-md-4" id="games" style="display:none">
+                <p><small style="color: #fff;">I actively play these games!</small></p>
+                <img src="img/chika.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Love Live! School Idol Festival! WW Server / Rin-boi ♥">
+                <img src="img/honkai.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Honkai Impact 3 - SEA Server / AngryIceKing">
+                <img src="img/dota2.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Defense of the Ancients 2 - 7.07 1k MMR / King">
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="text-center col-md-4 col-md-offset-4" id="frameworks" style="display:none;">
+              <p><small style="color: #fff;">and this langs/frameworks!</small></p>
+              <img src="img/python.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Shitty PHP (CI and Laravel)">
+              <img src="img/php.svg" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Best Python (Django / Pygame / RenPy)">
+              <img src="img/vue.png" class="img img-circle" style="width: 50px; height: 50px;" data-toggle="tooltip" title="Easy to use VueJS!">
+            </div>
+          </div>
+        </div>
       </div>
       <div class="text-center center-block" id="contact" style="display:none; color: #fff; margin-top: 220px;">
         <p><small style="color: #fff;">Reach me with this sites.</small></p>
@@ -101,6 +120,7 @@
       }, 50*30);
       setTimeout(function(){
         $('#games').fadeIn(1500);
+        $('#frameworks').fadeIn(1500);
       }, 6500);
       setTimeout(function(){
         // $('.header').css('background-image', 'url(../wiseking/img/chuck.gif)');
