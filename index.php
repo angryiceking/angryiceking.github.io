@@ -50,9 +50,15 @@
 
   <header class="header" id="top">
     <div class="text-vertical-center"  >
-      <h1 style="color: #fff; margin-top: -3% !important;" id="headingone"></h1>
-      <h1 style="color: #fff" id="headingone-part2"></h1>
-      <h3 style="color: #fff" id="headingtwo"></h3>
+      <div class="col-md-12">
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <h1 style="color: #fff; margin-top: -3% !important;" id="headingone"></h1>
+            <h1 style="color: #fff" id="headingone-part2"></h1>
+            <h3 style="color: #fff" id="headingtwo"></h3>
+          </div>
+        </div>
+      </div>
       <hr>
       <div class="col-md-12">
         <div class="row">
